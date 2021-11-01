@@ -8,5 +8,5 @@
   - *GNU/Linux*
   - *Bash scripting*
   
-- 👯 I’m looking to collaborate on simple projects that i can useful to.
+- 👯 I’m looking to collaborate on simple projects that i can be useful to.
 
